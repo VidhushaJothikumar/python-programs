@@ -4,13 +4,15 @@ This repository contains Python programs for learning and practice.
 # Topics Covered
 Python Basics,
 Variables and Data Types,
-Operator
+Operator,
 Input and Output,
 Conditional Statement & Loops
 
 # Programs
 Data Type Program,
-Operator
+Operator Program,
+Conditional Statement Program,
+Fibonacci Series Program
 
 # Purpose
 This repository is created to practice python programming and improve problem-solving skills
