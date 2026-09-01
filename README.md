@@ -9,7 +9,7 @@ Input and Output,
 Conditional Statement & Loops
 
 # Programs
-Data Type Program
+Data Type Program,
 Operator
 
 # Purpose
